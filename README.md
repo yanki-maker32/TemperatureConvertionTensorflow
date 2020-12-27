@@ -20,8 +20,8 @@ under Google Developer Club at Penn State.
     #L1 = tf.keras.layers.Dense(units=1, input_shape=[1])
     #tf.keras.Sequential([L1])
     #keras is an API specification that describes how a Deep Learning framework should implement
-    # certain part, related to the model definition and training.
-    # Is framework agnostic and supports different backends
+    certain part, related to the model definition and training.
+    Is framework agnostic and supports different backends
     #Sequential groups a linear stack of layers into a tf.keras.Model.
     #Sequential provides training and inference features on this model.
     #Takes layers as list
